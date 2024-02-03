@@ -1,0 +1,501 @@
+_id,id,titleText,releaseYear,releaseDate
+61e57fd65c5338f43c777f4a,tt0000081,"{'text': 'Les haleurs de bateaux', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd65c5338f43c777f4c,tt0000045,"{'text': 'Les blanchisseuses', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd65c5338f43c777f4e,tt0000066,"{'text': 'Dessinateur: Von Bismark', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd65c5338f43c777f50,tt0000049,"{'text': 'Boxing Match; or, Glove Contest', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 1, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd65c5338f43c777f52,tt0000103,"{'text': 'Plus fort que le maître', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd65c5338f43c777f54,tt0000133,"{'text': 'La voiture du potier', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd65c5338f43c777f56,tt0000125,"{'text': 'The Terrible Railway Accident', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd65c5338f43c777f58,tt0000184,"{'text': 'Cripple Creek Bar-Room Scene', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 5, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd65c5338f43c777f5a,tt0000109,"{'text': 'Rip Meeting the Dwarf', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 9, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd65c5338f43c777f5c,tt0000086,"{'text': 'Jetée et plage de Trouville (1er partie)', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd65c5338f43c777f5e,tt0000105,"{'text': 'Les quais à Marseille', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd65c5338f43c777f60,tt0000123,"{'text': 'Séance de prestidigitation', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd65c5338f43c777f62,tt0000148,"{'text': ""Le Coucher d'Yvette"", '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd65c5338f43c777f64,tt0000088,"{'text': 'Jour de marché à Trouville', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd65c5338f43c777f66,tt0000269,"{'text': 'Army Life', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd65c5338f43c777f68,tt0000152,"{'text': ""L'hallucination de l'alchimiste"", '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1897, '__typename': 'ReleaseDate'}"
+61e57fd65c5338f43c777f6a,tt0000132,"{'text': 'Une partie de cartes', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd66b25956a02777f4a,tt0000107,"{'text': 'Revue navale à Cherbourg', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd66b25956a02777f4c,tt0000095,"{'text': 'Le papier protée', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd66b25956a02777f4e,tt0000161,"{'text': 'Leçon de danse', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd66b25956a02777f50,tt0000100,"{'text': 'Place de la Concorde', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd66b25956a02777f52,tt0000075,"{'text': ""Escamotage d'une dame au théâtre Robert Houdin"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 10, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd66b25956a02777f54,tt0000051,"{'text': 'Campement de bohémiens', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd66b25956a02777f56,tt0000003,"{'text': 'Pauvre Pierrot', '__typename': 'TitleText'}","{'year': 1892, 'endYear': None, '__typename': 'YearRange'}","{'day': 28, 'month': 10, 'year': 1892, '__typename': 'ReleaseDate'}"
+61e57fd66b25956a02777f58,tt0000030,"{'text': 'Rough Sea at Dover', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': 14, 'month': 1, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd66b25956a02777f5a,tt0000181,"{'text': 'Cinderella', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 8, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd66b25956a02777f5c,tt0000186,"{'text': 'Le cuirassé Maine', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd66b25956a02777f5e,tt0000208,"{'text': 'The Miller and the Sweep', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 7, 'year': 1897, '__typename': 'ReleaseDate'}"
+61e57fd66b25956a02777f60,tt0000052,"{'text': 'Carga de rurales', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd66b25956a02777f62,tt0000253,"{'text': ""The Miser's Doom"", '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 9, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd66b25956a02777f64,tt0000177,"{'text': 'The Burglar on the Roof', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 9, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd68563151ff1777f4a,tt0000072,"{'text': 'Départ des officiers', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd68563151ff1777f4c,tt0000024,"{'text': 'Opening of the Kiel Canal', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': 19, 'month': 6, 'year': 1895, '__typename': 'ReleaseDate'}"
+61e57fd68563151ff1777f4e,tt0000023,"{'text': 'Baignade en mer', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': 28, 'month': 6, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd68563151ff1777f50,tt0000084,"{'text': 'Les ivrognes', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd68563151ff1777f52,tt0000083,"{'text': 'Les indiscrets', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd68563151ff1777f54,tt0000013,"{'text': 'Le débarquement du congrès de photographie à Lyon', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': 12, 'month': 6, 'year': 1895, '__typename': 'ReleaseDate'}"
+61e57fd68563151ff1777f56,tt0000074,"{'text': 'Enfants jouant sur la plage', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd68563151ff1777f58,tt0000098,"{'text': ""Place de l'Opéra, 2e aspect"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd68563151ff1777f5a,tt0000070,"{'text': ""Démolition d'un mur"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 6, 'month': 3, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd68563151ff1777f5c,tt0000089,"{'text': 'Départ de Jérusalem en chemin de fer', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1897, '__typename': 'ReleaseDate'}"
+61e57fd68563151ff1777f5e,tt0000232,"{'text': 'Le chiffonnier', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd68563151ff1777f60,tt0000238,"{'text': ""Les dangers de l'alcoolisme"", '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd68563151ff1777f62,tt0000206,"{'text': 'Llegada de un tren a la estación de ferrocarril del Norte, de Barcelona', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd68563151ff1777f64,tt0000204,"{'text': 'Jésus devant Pilate', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd68563151ff1777f66,tt0000236,"{'text': 'Courte échelle', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd68563151ff1777f68,tt0000180,"{'text': 'Le chemin de croix', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd68563151ff1777f6a,tt0000270,"{'text': ""Arrivée d'Arléquin"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd68563151ff1777f6c,tt0000268,"{'text': ""L'arléquine"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6947ef0b36e777f4a,tt0000077,"{'text': 'Le fakir, mystère indien', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6947ef0b36e777f4c,tt0000032,"{'text': 'Die Serpentintänzerin', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 11, 'year': 1895, '__typename': 'ReleaseDate'}"
+61e57fd6947ef0b36e777f4e,tt0000085,"{'text': 'Jardinier brûlant des herbes', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6947ef0b36e777f50,tt0000058,"{'text': 'Cortège de tzar au Bois de Boulogne', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6947ef0b36e777f52,tt0000031,"{'text': 'Le saut à la couverture', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 7, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6947ef0b36e777f54,tt0000055,"{'text': 'Le chiffonnier', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6947ef0b36e777f56,tt0000092,"{'text': 'Marée montante sur Brise-Larmes', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6947ef0b36e777f58,tt0000026,"{'text': ""Partie d'écarté"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 23, 'month': 2, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6947ef0b36e777f5a,tt0000166,"{'text': 'Salida de los trabajadores de la fábrica España Industrial', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6947ef0b36e777f5c,tt0000190,"{'text': 'Dostavenícko ve mlýnici', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 7, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd6947ef0b36e777f5e,tt0000108,"{'text': 'Rip Leaving Sleepy Hollow', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 9, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6947ef0b36e777f60,tt0000146,"{'text': 'Le cocher de fiacre endormi', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6947ef0b36e777f62,tt0000245,"{'text': 'The Haunted House', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 8, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd6947ef0b36e777f64,tt0000167,"{'text': 'Salida de misa de doce del Pilar de Zaragoza', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6947ef0b36e777f66,tt0000189,"{'text': 'Dorotea', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6947ef0b36e777f68,tt0000266,"{'text': 'Above the Speedway', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6947ef0b36e777f6a,tt0000280,"{'text': ""Buffalo Bill's Wild West Parade"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 5, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd6947ef0b36e777f6c,tt0000267,"{'text': ""L'angélus"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd694e8253137777f4a,tt0000002,"{'text': 'Le clown et ses chiens', '__typename': 'TitleText'}","{'year': 1892, 'endYear': None, '__typename': 'YearRange'}","{'day': 28, 'month': 10, 'year': 1892, '__typename': 'ReleaseDate'}"
+61e57fd694e8253137777f4c,tt0000042,"{'text': 'Bateau-mouche sur la Seine', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd694e8253137777f4e,tt0000099,"{'text': 'Place de la Bastille', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd694e8253137777f50,tt0000012,"{'text': ""L'arrivée d'un train à La Ciotat"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 25, 'month': 1, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd694e8253137777f52,tt0000008,"{'text': 'Edison Kinetoscopic Record of a Sneeze', '__typename': 'TitleText'}","{'year': 1894, 'endYear': None, '__typename': 'YearRange'}","{'day': 9, 'month': 1, 'year': 1894, '__typename': 'ReleaseDate'}"
+61e57fd694e8253137777f54,tt0000004,"{'text': 'Un bon bock', '__typename': 'TitleText'}","{'year': 1892, 'endYear': None, '__typename': 'YearRange'}","{'day': 28, 'month': 10, 'year': 1892, '__typename': 'ReleaseDate'}"
+61e57fd694e8253137777f56,tt0000036,"{'text': 'Awakening of Rip', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 9, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd694e8253137777f58,tt0000207,"{'text': 'London Express', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd694e8253137777f5a,tt0000091,"{'text': 'Le manoir du diable', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 24, 'month': 12, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd694e8253137777f5c,tt0000139,"{'text': ""L'aveugle"", '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd694e8253137777f5e,tt0000007,"{'text': 'Corbett and Courtney Before the Kinetograph', '__typename': 'TitleText'}","{'year': 1894, 'endYear': None, '__typename': 'YearRange'}","{'day': 17, 'month': 11, 'year': 1894, '__typename': 'ReleaseDate'}"
+61e57fd694e8253137777f60,tt0000214,"{'text': 'Tearing Down the Spanish Flag', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd694e8253137777f62,tt0000215,"{'text': 'Smích a plác', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd694e8253137777f64,tt0000211,"{'text': 'La lune à un mètre', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd694e8253137777f66,tt0000144,"{'text': 'Chez le magnétiseur', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 9, 'year': 2009, '__typename': 'ReleaseDate'}"
+61e57fd694e8253137777f68,tt0000073,"{'text': 'Effets de mer sur les rochers', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6c66ed3677a777f4a,tt0000061,"{'text': 'Dancing Girls', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 3, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6c66ed3677a777f4c,tt0000094,"{'text': 'Miss de Vere', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6c66ed3677a777f4e,tt0000005,"{'text': 'Blacksmith Scene', '__typename': 'TitleText'}","{'year': 1893, 'endYear': None, '__typename': 'YearRange'}","{'day': 9, 'month': 5, 'year': 1893, '__typename': 'ReleaseDate'}"
+61e57fd6c66ed3677a777f50,tt0000041,"{'text': 'Bataille de neige', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': 7, 'month': 2, 'year': 1897, '__typename': 'ReleaseDate'}"
+61e57fd6c66ed3677a777f52,tt0000057,"{'text': 'Cortège de tzar allant à Versailles', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6c66ed3677a777f54,tt0000120,"{'text': 'Sauvetage en rivière, 2e', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 5, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6c66ed3677a777f56,tt0000097,"{'text': ""Place de l'Opéra, 1er aspect"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6c66ed3677a777f58,tt0000130,"{'text': 'Une altercation au café', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6c66ed3677a777f5a,tt0000044,"{'text': 'Le bivouac', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6c66ed3677a777f5c,tt0000137,"{'text': 'Au réfectoire', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6c66ed3677a777f5e,tt0000142,"{'text': 'Buffalo Bill and Escort', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 5, 'year': 1897, '__typename': 'ReleaseDate'}"
+61e57fd6c66ed3677a777f60,tt0000038,"{'text': 'The Ball Game', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}","{'day': 20, 'month': 5, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd6c66ed3677a777f62,tt0000258,"{'text': 'Le tondeur de chiens', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6c66ed3677a777f64,tt0000182,"{'text': 'Come Along, Do!', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd6c66ed3677a777f66,tt0000299,"{'text': ""Le départ d'Arlequin et de Pierrette"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd6cc0d1f7890777f4a,tt0000039,"{'text': 'Barnet Horse Fair', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6cc0d1f7890777f4c,tt0000065,"{'text': 'Dessinateur: Reine Victoria', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6cc0d1f7890777f4e,tt0000160,"{'text': 'The Last Days of Pompeii', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 7, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd6cc0d1f7890777f50,tt0000056,"{'text': 'Uma Corrida de Touros no Campo Pequeno', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6cc0d1f7890777f52,tt0000064,"{'text': 'Dessinateur: Chamberlain', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6cc0d1f7890777f54,tt0000022,"{'text': 'Les forgerons', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': 28, 'month': 6, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6cc0d1f7890777f56,tt0000128,"{'text': 'Un lycée de jeunes filles', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6cc0d1f7890777f58,tt0000006,"{'text': 'Chinese Opium Den', '__typename': 'TitleText'}","{'year': 1894, 'endYear': None, '__typename': 'YearRange'}","{'day': 17, 'month': 10, 'year': 1894, '__typename': 'ReleaseDate'}"
+61e57fd6cc0d1f7890777f5a,tt0000114,"{'text': 'Le régiment', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6cc0d1f7890777f5c,tt0000111,"{'text': ""Rip's Toast"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 9, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6cc0d1f7890777f5e,tt0000201,"{'text': 'Indian War Council', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6cc0d1f7890777f60,tt0000009,"{'text': 'Miss Jerry', '__typename': 'TitleText'}","{'year': 1894, 'endYear': None, '__typename': 'YearRange'}","{'day': 9, 'month': 10, 'year': 1894, '__typename': 'ReleaseDate'}"
+61e57fd6cc0d1f7890777f62,tt0000227,"{'text': 'Bombardment of Mafeking', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 11, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd6cc0d1f7890777f64,tt0000068,"{'text': 'Déchargement de bateaux', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6cc0d1f7890777f66,tt0000183,"{'text': 'The Corsican Brothers', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 8, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd6cc0d1f7890777f68,tt0000309,"{'text': 'How It Feels to Be Run Over', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 7, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f4a,tt0000047,"{'text': 'Boulevard des Italiens', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f4c,tt0000040,"{'text': 'Barque sortant du port de Trouville', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f4e,tt0000067,"{'text': 'Dix chapeaux en 60 secondes', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f50,tt0000011,"{'text': 'Akrobatisches Potpourri', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 11, 'year': 1895, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f52,tt0000115,"{'text': ""Réunion d'officiers"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6d8a2362a33777f54,tt0000017,"{'text': 'Italienischer Bauerntanz', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 11, 'year': 1895, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f56,tt0000046,"{'text': 'Bois de Boulogne', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f58,tt0000015,"{'text': ""Autour d'une cabine"", '__typename': 'TitleText'}","{'year': 1894, 'endYear': None, '__typename': 'YearRange'}","{'day': 15, 'month': 12, 'year': 1894, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f5a,tt0000025,"{'text': 'The Oxford and Cambridge University Boat Race', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1895, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f5c,tt0000062,"{'text': 'Danse serpentine', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 25, 'month': 11, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f5e,tt0000168,"{'text': 'Salida del público de la iglesia parroquial de Santa María de Sans', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6d8a2362a33777f60,tt0000048,"{'text': 'The Boxing Kangaroo', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 1, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f62,tt0000156,"{'text': ""L'hôtel empoisonné"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f64,tt0000193,"{'text': ""L'entrée à Jérusalem"", '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6d8a2362a33777f66,tt0000229,"{'text': 'Casey at the Bat', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 4, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f68,tt0000034,"{'text': ""Arrivée d'un train gare de Vincennes"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6d8a2362a33777f6a,tt0000290,"{'text': ""Dance de l'ivresse"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6d8a2362a33777f6c,tt0000241,"{'text': 'La descente de croix', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6d8a2362a33777f6e,tt0000287,"{'text': 'The Clown and the Alchemist', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 11, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd6e793c41f87777f4a,tt0000096,"{'text': 'Place Saint-Augustin', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6e793c41f87777f4c,tt0000027,"{'text': 'Place des Cordeliers à Lyon', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': 28, 'month': 12, 'year': 1895, '__typename': 'ReleaseDate'}"
+61e57fd6e793c41f87777f4e,tt0000035,"{'text': ""L'arroseur"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6e793c41f87777f50,tt0000029,"{'text': 'Repas de bébé', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 7, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6e793c41f87777f52,tt0000020,"{'text': 'The Derby 1895', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': 20, 'month': 11, 'year': 1895, '__typename': 'ReleaseDate'}"
+61e57fd6e793c41f87777f54,tt0000071,"{'text': 'Départ des automobiles', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6e793c41f87777f56,tt0000154,"{'text': 'Henley Regatta', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': 17, 'month': 3, 'year': 1897, '__typename': 'ReleaseDate'}"
+61e57fd6e793c41f87777f58,tt0000079,"{'text': 'La gare Saint-Lazare', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6e793c41f87777f5a,tt0000104,"{'text': 'Pompiers à Lyon', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6e793c41f87777f5c,tt0000119,"{'text': 'Sauvetage en rivière, 1er', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 5, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6e793c41f87777f5e,tt0000255,"{'text': ""Mésaventure d'un charbonnier"", '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6e793c41f87777f60,tt0000212,"{'text': 'Saida do Paquete Duque de Braganca', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6e793c41f87777f62,tt0000254,"{'text': 'Monnaie de lapin', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6e793c41f87777f64,tt0000256,"{'text': 'Panorama from the Tower of the Brooklyn Bridge', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6e793c41f87777f66,tt0000163,"{'text': 'Le planton du colonel', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6ef8211cb56777f4a,tt0000037,"{'text': 'Baignade en mer', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6ef8211cb56777f4c,tt0000033,"{'text': 'La voltige', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 7, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6ef8211cb56777f4e,tt0000018,"{'text': 'Das boxende Känguruh', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 11, 'year': 1895, '__typename': 'ReleaseDate'}"
+61e57fd6ef8211cb56777f50,tt0000063,"{'text': 'Dessinateur express', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6ef8211cb56777f52,tt0000106,"{'text': 'Retour au cantonnement', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6ef8211cb56777f54,tt0000122,"{'text': 'Sortie des ateliers Vibert', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6ef8211cb56777f56,tt0000134,"{'text': 'The Wandering Negro Minstrels', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 2, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6ef8211cb56777f58,tt0000196,"{'text': 'Faust and Mephistopheles', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 8, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd6ef8211cb56777f5a,tt0000202,"{'text': 'Le jardin des oliviers', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6ef8211cb56777f5c,tt0000080,"{'text': 'Grandes manoeuvres', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6ef8211cb56777f5e,tt0000124,"{'text': 'Tempête sur la jetée du treport', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6ef8211cb56777f60,tt0000237,"{'text': 'Le crucifiement', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6ef8211cb56777f62,tt0000159,"{'text': 'Le cabinet de Méphistophélès', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6ef8211cb56777f64,tt0000135,"{'text': 'A Watermelon Feast', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 12, 'month': 9, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6ef8211cb56777f66,tt0000228,"{'text': 'La bonne absinthe', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd6ef8211cb56777f68,tt0000231,"{'text': 'Portuguese Railway Train', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6ef8211cb56777f6a,tt0000289,"{'text': ""Coucher d'une Parisienne"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6ef8211cb56777f6c,tt0000263,"{'text': 'Vista de la entrada principal de la plaza de toros de Jerez, el segundo día de feria', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': 13, 'month': 5, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd6ef8211cb56777f6e,tt0000274,"{'text': ""Avenue de l'opéra"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd6f6ace03d15777f4a,tt0000102,"{'text': 'Plage de Villiers par gros temps', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6ace03d15777f4c,tt0000093,"{'text': 'Melbourne', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6ace03d15777f4e,tt0000126,"{'text': 'Tom Old Boot', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6ace03d15777f50,tt0000050,"{'text': 'Bébé et fillettes', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6f6ace03d15777f52,tt0000060,"{'text': 'Dancing Darkies', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 12, 'month': 9, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6f6ace03d15777f54,tt0000082,"{'text': 'A Hard Wash', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 12, 'month': 9, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6f6ace03d15777f56,tt0000127,"{'text': ""Les tribulations d'un concierge"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6ace03d15777f58,tt0000216,"{'text': 'Visita de Doña María Cristina y Alfonso XIII a Barcelona', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6ace03d15777f5a,tt0000069,"{'text': ""Défense d'afficher"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6f6ace03d15777f5c,tt0000143,"{'text': 'Les cambrioleurs', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd6f6ace03d15777f5e,tt0000151,"{'text': 'Faust et Marguerite', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6ace03d15777f60,tt0000265,"{'text': 'Above the Limit', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 11, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd6f6ace03d15777f62,tt0000279,"{'text': ""Buffalo Bill's Wild West Parade"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6ace03d15777f64,tt0000282,"{'text': 'Le bébé', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6ace03d15777f66,tt0000172,"{'text': 'The X-Ray Fiend', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 10, 'year': 1897, '__typename': 'ReleaseDate'}"
+61e57fd6f6b21fc69e777f4a,tt0000019,"{'text': 'The Clown Barber', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 8, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd6f6b21fc69e777f4c,tt0000118,"{'text': ""Salut malencontreux d'un déserteur"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6b21fc69e777f4e,tt0000059,"{'text': 'Couronnement de la rosière', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6f6b21fc69e777f50,tt0000014,"{'text': ""L'arroseur arrosé"", '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6f6b21fc69e777f52,tt0000043,"{'text': 'Batteuse à vapeur', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd6f6b21fc69e777f54,tt0000090,"{'text': 'Libération des territoriaux', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6b21fc69e777f56,tt0000028,"{'text': 'La pêche aux poissons rouges', '__typename': 'TitleText'}","{'year': 1895, 'endYear': None, '__typename': 'YearRange'}","{'day': 28, 'month': 12, 'year': 1895, '__typename': 'ReleaseDate'}"
+61e57fd6f6b21fc69e777f58,tt0000141,"{'text': 'Ballet libella', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6b21fc69e777f5a,tt0000226,"{'text': 'Boat Race', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6b21fc69e777f5c,tt0000101,"{'text': 'Place du théâtre français', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6b21fc69e777f5e,tt0000203,"{'text': 'Je vous y prrrrends!', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd6f6b21fc69e777f60,tt0000240,"{'text': 'Distributing a War Extra', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 5, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd6f6b21fc69e777f62,tt0000200,"{'text': 'Gran corrida de toros', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}","{'day': 27, 'month': 12, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd6f6b21fc69e777f64,tt0000209,"{'text': 'Photographing a Ghost', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 8, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd6f6b21fc69e777f66,tt0000174,"{'text': 'Výstavní párkar a lepic plakátù', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 7, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd6f6b21fc69e777f68,tt0000230,"{'text': 'Cendrillon', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 10, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd6f6b21fc69e777f6a,tt0000247,"{'text': 'King John', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': 20, 'month': 9, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777f6c,tt0000348,"{'text': 'Charmant froufrou', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f6e,tt0000314,"{'text': 'Leçon de danse', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f70,tt0000369,"{'text': 'Pista de bicicletas para niños en Barcelona', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f72,tt0000483,"{'text': 'Les deux rivaux', '__typename': 'TitleText'}","{'year': 1904, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f74,tt0000076,"{'text': 'Exit of Rip and the Dwarf', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 9, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777f76,tt0000175,"{'text': 'A Sea Cave Near Lisbon', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 29, 'month': 10, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777f78,tt0000164,"{'text': 'Le pêcheur dans le torrent', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 9, 'year': 2009, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777f7a,tt0000129,"{'text': 'Un petit diable', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f7c,tt0000350,"{'text': 'The Countryman and the Cinematograph', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f7e,tt0000536,"{'text': 'Apachentanz', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f80,tt0000213,"{'text': ""Scène d'escamotage"", '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f82,tt0000467,"{'text': 'Secours aux naufragés', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f84,tt0000251,"{'text': 'Matches: An Appeal', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777f86,tt0000490,"{'text': ""L'oiseau envolé"", '__typename': 'TitleText'}","{'year': 1904, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f88,tt0000054,"{'text': 'Les chevaux de bois', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777f8a,tt0000570,"{'text': 'San Francisco Disaster', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f8c,tt0000347,"{'text': ""Buffalo Bill's Wild West Parade"", '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 4, 'year': 1901, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777f8e,tt0000613,"{'text': 'O Rapto de Uma Actriz', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 3, 'month': 9, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777f90,tt0000680,"{'text': 'Falsely Accused!', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 18, 'month': 1, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777f92,tt0000121,"{'text': ""The Soldier's Courtship"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777f94,tt0000377,"{'text': 'Undressing Extraordinary', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f96,tt0000398,"{'text': 'La gigue', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f98,tt0000785,"{'text': 'Where the Breakers Roar', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 22, 'month': 9, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777f9a,tt0000380,"{'text': 'La belle au bois dormant', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': 11, 'month': 7, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777f9c,tt0000395,"{'text': 'La fiole enchantée', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777f9e,tt0000845,"{'text': 'The Deception', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 22, 'month': 3, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777fa0,tt0000475,"{'text': ""The Adventurous Voyage of 'The Arctic'"", '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 11, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777fa2,tt0000481,"{'text': ""A Collier's Life"", '__typename': 'TitleText'}","{'year': 1904, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777fa4,tt0000409,"{'text': 'Sage-femme de première classe', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1902, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777fa6,tt0000454,"{'text': 'La mouche', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd75c5338f43c777fa8,tt0000956,"{'text': 'The Maniac Cook', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 4, 'month': 1, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777faa,tt0000605,"{'text': 'Mordet paa Fyn', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 18, 'month': 4, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777fac,tt0000962,"{'text': 'The Mexican Sweethearts', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 24, 'month': 6, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777fae,tt0000529,"{'text': 'Reuben in the Opium Joint', '__typename': 'TitleText'}","{'year': 1905, 'endYear': None, '__typename': 'YearRange'}","{'day': 29, 'month': 6, 'year': 1905, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777fb0,tt0000942,"{'text': 'The Lonely Villa', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 10, 'month': 6, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777fb2,tt0000641,"{'text': 'Balked at the Altar', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 25, 'month': 8, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd75c5338f43c777fb4,tt0000784,"{'text': 'When Knights Were Bold', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 20, 'month': 5, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777f66,tt0000222,"{'text': 'Au cabaret', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f68,tt0000300,"{'text': 'The Enchanted Drawing', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': 16, 'month': 11, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777f6a,tt0000337,"{'text': 'Spanish Bullfight', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f6c,tt0000426,"{'text': ""Buffalo Bill's Street Parade"", '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 1, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777f6e,tt0000155,"{'text': 'Le magnétiseur', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f70,tt0000158,"{'text': 'Idylle interrompue', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f72,tt0000360,"{'text': 'Hussards et grisettes', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f74,tt0000383,"{'text': 'Carreras de caballos en el hipódromo de Barcelona', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f76,tt0000170,"{'text': ""The Twins' Tea Party"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 8, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777f78,tt0000460,"{'text': 'The Pioneers', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 10, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777f7a,tt0000242,"{'text': 'Le diable au couvent', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': 30, 'month': 6, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777f7c,tt0000532,"{'text': 'Torrero y la ribera (Calles y plazas de Zaragoza)', '__typename': 'TitleText'}","{'year': 1905, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f7e,tt0000179,"{'text': 'La caverne maudite', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f80,tt0000304,"{'text': ""Grandma's Reading Glass"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 11, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777f82,tt0000246,"{'text': ""L'impressionniste fin de siècle"", '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f84,tt0000593,"{'text': 'Fiestas de San Antonio', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f86,tt0000235,"{'text': 'La colonne de feu', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f88,tt0000431,"{'text': 'Comme on fait son lit on se couche', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f8a,tt0000329,"{'text': 'Le Polichinelle', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f8c,tt0000131,"{'text': 'Une nuit terrible', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777f8e,tt0000606,"{'text': 'Mr. Gay and Mrs.', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 21, 'month': 12, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777f90,tt0000656,"{'text': 'Il cane riconoscente', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 4, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777f92,tt0000321,"{'text': 'The Mystic Swing', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f94,tt0000343,"{'text': 'Valse directoire', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f96,tt0000406,"{'text': 'The Prince of Darkness', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 4, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777f98,tt0000372,"{'text': ""Scène d'ivresse"", '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f9a,tt0000726,"{'text': 'Monasterio de Poblet', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777f9c,tt0000727,"{'text': 'Monday Morning in a Coney Island Police Court', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 4, 'month': 9, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777f9e,tt0000452,"{'text': ""The Messenger Boy's Mistake"", '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 10, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777fa0,tt0000351,"{'text': 'Danses basques', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777fa2,tt0000865,"{'text': ""A Father's Mistake"", '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 10, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777fa4,tt0000509,"{'text': ""Les débuts d'un chauffeur"", '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1906, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777fa6,tt0000542,"{'text': 'Cerveza gratis', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777fa8,tt0000473,"{'text': 'La valise enchantée', '__typename': 'TitleText'}","{'year': 1905, 'endYear': None, '__typename': 'YearRange'}","{'day': 9, 'month': 10, 'year': 1905, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777faa,tt0000907,"{'text': 'In Little Italy', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 23, 'month': 12, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777fac,tt0000948,"{'text': ""La légende de l'arc-en-ciel"", '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777fae,tt0000584,"{'text': 'El ciego de la aldea', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd76b25956a02777fb0,tt0001000,"{'text': 'The Peachbasket Hat', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 24, 'month': 6, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777fb2,tt0000636,"{'text': 'As You Like It', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 19, 'month': 9, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777fb4,tt0000413,"{'text': 'Les trésors de satan', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1902, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777fb6,tt0000615,"{'text': 'Robbery Under Arms', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 2, 'month': 11, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777fb8,tt0000990,"{'text': 'Oliver Twist', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 5, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd76b25956a02777fba,tt0000716,"{'text': 'Lonesome Junction', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 22, 'month': 1, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f6e,tt0000305,"{'text': ""L'Habanera"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777f70,tt0000296,"{'text': 'Danse serpentine', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': 8, 'month': 8, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f72,tt0000239,"{'text': 'Danse serpentine par Mme. Bob Walter', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777f74,tt0000450,"{'text': 'La main du professeur Hamilton ou le roi des dollars', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777f76,tt0000173,"{'text': 'Battle of Santiago Bay', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777f78,tt0000384,"{'text': 'Les chiens savants', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}","{'day': 10, 'month': 3, 'year': 2006, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f7a,tt0000456,"{'text': 'N.Y. Fire Department Returning', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 5, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f7c,tt0000162,"{'text': 'Les chutes', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777f7e,tt0000358,"{'text': ""Histoire d'un crime"", '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 5, 'year': 1901, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f80,tt0000217,"{'text': 'Waves and Spray', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777f82,tt0000420,"{'text': 'Alice in Wonderland', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 5, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f84,tt0000150,"{'text': 'Danse fleur de lotus', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': 18, 'month': 5, 'year': 1897, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f86,tt0000524,"{'text': 'New York Subway', '__typename': 'TitleText'}","{'year': 1905, 'endYear': None, '__typename': 'YearRange'}","{'day': 5, 'month': 6, 'year': 1905, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f88,tt0000284,"{'text': 'Chez le photographe', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f8a,tt0000078,"{'text': 'Feira de Gado na Corujeira', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f8c,tt0000562,"{'text': 'Os Lusíadas', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}","{'day': 14, 'month': 7, 'year': 1906, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f8e,tt0000335,"{'text': 'Soldiers of the Cross', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': 13, 'month': 9, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f90,tt0000439,"{'text': 'The Great Train Robbery', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': 7, 'month': 12, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f92,tt0000303,"{'text': 'Gavotte directoire', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777f94,tt0000633,"{'text': ""The Anarchist's Sweetheart"", '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 11, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f96,tt0000737,"{'text': 'Over the Hill to the Poorhouse', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 26, 'month': 6, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f98,tt0000330,"{'text': 'La poupée noire', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777f9a,tt0000390,"{'text': 'Danse mauresque', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777f9c,tt0000741,"{'text': ""The Planter's Wife"", '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 20, 'month': 10, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777f9e,tt0000819,"{'text': ""A Burglar's Mistake"", '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 25, 'month': 3, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777fa0,tt0000315,"{'text': 'Le marchand de coco', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777fa2,tt0000820,"{'text': 'Campaña del Riff', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 9, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777fa4,tt0000868,"{'text': 'Fiestas de Santa Lucía - Belenes', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777fa6,tt0000472,"{'text': ""Uncle Tom's Cabin"", '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 5, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777fa8,tt0000929,"{'text': 'Klebolin klebt alles', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777faa,tt0000468,"{'text': 'Service précipité', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777fac,tt0000496,"{'text': 'Railroad Smashup', '__typename': 'TitleText'}","{'year': 1904, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 11, 'year': 1904, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777fae,tt0000866,"{'text': 'Fellow Clerks', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 10, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777fb0,tt0000534,"{'text': ""The '?' Motorist"", '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}","{'day': 25, 'month': 10, 'year': 1906, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777fb2,tt0000667,"{'text': ""Corrida de toros con Ricardo Torres 'Bombita'"", '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd78563151ff1777fb4,tt0000995,"{'text': 'One Touch of Nature', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 1, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777fb6,tt0000640,"{'text': 'An Awful Moment', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 18, 'month': 12, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777fb8,tt0000860,"{'text': 'The Faded Lilies', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 17, 'month': 6, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777fba,tt0000649,"{'text': ""Bobby's Kodak"", '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 10, 'month': 2, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777fbc,tt0001011,"{'text': 'The Prussian Spy', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 3, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd78563151ff1777fbe,tt0000715,"{'text': 'The Life of an American Cowboy', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f6e,tt0000197,"{'text': 'La flagellation', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f70,tt0000171,"{'text': 'Une nuit agitée', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f72,tt0000325,"{'text': 'Pas des éventails', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f74,tt0000326,"{'text': 'Pas du poignard', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f76,tt0000412,"{'text': 'The Troublesome Fly', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 5, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777f78,tt0000219,"{'text': 'Aladdin and the Wonderful Lamp', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 11, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777f7a,tt0000368,"{'text': 'Le petit chaperon rouge', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}","{'day': 26, 'month': 10, 'year': 1901, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777f7c,tt0000243,"{'text': 'Le déjeuner des enfants', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f7e,tt0000250,"{'text': 'Llegada del vapor Bellver a Mallorca', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f80,tt0000500,"{'text': 'The Abductors', '__typename': 'TitleText'}","{'year': 1905, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 7, 'year': 1905, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777f82,tt0000145,"{'text': 'En classe', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f84,tt0000440,"{'text': 'La guirlande merveilleuse', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': 13, 'month': 6, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777f86,tt0000272,"{'text': 'As Seen Through a Telescope', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 9, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777f88,tt0000504,"{'text': 'Coso y Paseo de Santa Engracia (Calles y plazas de Zaragoza)', '__typename': 'TitleText'}","{'year': 1905, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f8a,tt0000178,"{'text': ""The Cavalier's Dream"", '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 12, 'year': 1898, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777f8c,tt0000585,"{'text': 'Concurso de sardanas en el parque Guell', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f8e,tt0000589,"{'text': 'Descoberta da América por Cristovão Colombo', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 24, 'month': 5, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777f90,tt0000221,"{'text': 'Aspectos da Praia de Cascais', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f92,tt0000603,"{'text': 'The Magic Fountain Pen', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 17, 'month': 7, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777f94,tt0000620,"{'text': 'Testamentet', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 7, 'month': 1, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777f96,tt0000312,"{'text': 'Le lapin', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f98,tt0000391,"{'text': 'La dent récalcitrante', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f9a,tt0000378,"{'text': 'Les vagues', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f9c,tt0000696,"{'text': 'El guardia burlado', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777f9e,tt0000770,"{'text': 'The Taming of the Shrew', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 10, 'month': 11, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777fa0,tt0000355,"{'text': 'Fire!', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}","{'day': 15, 'month': 10, 'year': 1901, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777fa2,tt0000379,"{'text': 'Visita de la escuadra inglesa a Barcelona', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777fa4,tt0000839,"{'text': 'The Curse of Money', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 9, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777fa6,tt0000470,"{'text': ""Les surprises de l'affichage"", '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777fa8,tt0000538,"{'text': 'Bilbao, Portugalete y los Altos Hornos', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777faa,tt0000828,"{'text': 'Confidence', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 15, 'month': 4, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777fac,tt0000514,"{'text': 'Los guapos de la Vaquería del Parque', '__typename': 'TitleText'}","{'year': 1905, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777fae,tt0000731,"{'text': 'Mrs. Jones Entertains', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 9, 'month': 1, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777fb0,tt0000537,"{'text': 'Arrival of Immigrants, Ellis Island', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7947ef0b36e777fb2,tt0000546,"{'text': 'Dream of a Rarebit Fiend', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}","{'day': 19, 'month': 2, 'year': 1906, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777fb4,tt0000967,"{'text': 'The Mills of the Gods', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 30, 'month': 8, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777fb6,tt0001029,"{'text': 'The Salvation Army Lass', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 11, 'month': 3, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777fb8,tt0000898,"{'text': 'His Lost Love', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 18, 'month': 10, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777fba,tt0000604,"{'text': 'Mesalliancen', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 12, 'month': 11, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777fbc,tt0001022,"{'text': 'A Rose of the Tenderloin', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 23, 'month': 11, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7947ef0b36e777fbe,tt0000688,"{'text': 'The Flower Girl of Paris', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 26, 'month': 12, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777f6a,tt0000339,"{'text': 'La tarentelle', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f6c,tt0000313,"{'text': 'Let Me Dream Again', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 8, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777f6e,tt0000286,"{'text': 'Chirurgie fin de siècle', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777f70,tt0000407,"{'text': 'Procesión de las hijas de María de la parroquia de Sans', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f72,tt0000205,"{'text': 'Leçons de boxe', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f74,tt0000113,"{'text': ""Rip's Twenty Years' Sleep"", '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 9, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777f76,tt0000435,"{'text': 'Enlèvement en automobile et mariage précipité', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f78,tt0000387,"{'text': 'The Coronation of Edward VII', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}","{'day': 9, 'month': 8, 'year': 1902, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777f7a,tt0000194,"{'text': 'Express Train on a Railway Cutting', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f7c,tt0000422,"{'text': ""Les aventures d'un voyageur trop pressé"", '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f7e,tt0000153,"{'text': 'The Haunted Castle', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 12, 'year': 1897, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777f80,tt0000458,"{'text': 'Nos bons étudiants', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f82,tt0000149,"{'text': 'Dans les coulisses', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 1, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777f84,tt0000464,"{'text': 'Rip Van Winkle', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 5, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777f86,tt0000244,"{'text': 'Erreur judiciaire', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f88,tt0000590,"{'text': 'Dr. Skinum', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 14, 'month': 12, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777f8a,tt0000495,"{'text': 'Le pêcheur de perles', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777f8c,tt0000310,"{'text': 'Chimmie Hicks and the Rum Omelet', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 11, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777f8e,tt0000541,"{'text': 'Caros død', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f90,tt0000316,"{'text': 'Marché à la volaille', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f92,tt0000285,"{'text': 'Chinese Magic', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 9, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777f94,tt0000616,"{'text': 'Romería a San Medín', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f96,tt0000629,"{'text': 'After Many Years', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 3, 'month': 11, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777f98,tt0000297,"{'text': 'Danses', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f9a,tt0000375,"{'text': 'Uma Tourada à Antiga Portuguesa', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f9c,tt0000666,"{'text': 'Corrida de toros con Antonio Fuentes', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777f9e,tt0000660,"{'text': 'The Christmas Burglars', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 22, 'month': 12, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777fa0,tt0000706,"{'text': 'Ingomar, the Barbarian', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 13, 'month': 10, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777fa2,tt0000800,"{'text': 'The Awakening', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 30, 'month': 9, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777fa4,tt0000233,"{'text': 'Choque de dos transatlánticos', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777fa6,tt0000491,"{'text': 'Opening the Williamsburg Bridge', '__typename': 'TitleText'}","{'year': 1904, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 2, 'year': 1904, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777fa8,tt0000808,"{'text': ""Betty's Choice"", '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 5, 'month': 10, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777faa,tt0000517,"{'text': 'El húsar de la guardia', '__typename': 'TitleText'}","{'year': 1905, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777fac,tt0000592,"{'text': 'Eureka Stockade', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 19, 'month': 10, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777fae,tt0000884,"{'text': 'Grevinde X', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 8, 'month': 10, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777fb0,tt0000516,"{'text': 'El hotel eléctrico', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 31, 'month': 10, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777fb2,tt0000597,"{'text': 'Les glaces merveilleuses', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 28, 'month': 12, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777fb4,tt0000376,"{'text': 'A táncz', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}","{'day': 30, 'month': 4, 'year': 1901, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777fb6,tt0001087,"{'text': 'Washington Under the American Flag', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 3, 'month': 7, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd794e8253137777fb8,tt0000671,"{'text': 'Desdemona', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd794e8253137777fba,tt0001140,"{'text': 'The Bully', '__typename': 'TitleText'}","{'year': 1910, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 9, 'year': 1910, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777f68,tt0000324,"{'text': 'Pas de grâce', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f6a,tt0000341,"{'text': ""Uncle Josh's Nightmare"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 3, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777f6c,tt0000362,"{'text': 'Lecture quotidienne', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f6e,tt0000408,"{'text': 'Quadrille réaliste', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f70,tt0000199,"{'text': 'Glasgow Fire Engine', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f72,tt0000461,"{'text': 'Potage indigeste', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f74,tt0000252,"{'text': 'La mauvaise soupe', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f76,tt0000157,"{'text': 'Idylle', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f78,tt0000502,"{'text': 'Bohemios', '__typename': 'TitleText'}","{'year': 1905, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f7a,tt0000220,"{'text': 'The Artist and the Flower Girl', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1901, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777f7c,tt0000437,"{'text': 'Faust et Méphistophélès', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f7e,tt0000277,"{'text': 'Bataille de boules de neige', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f80,tt0000555,"{'text': 'Den hvide slavinde', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 12, 'month': 1, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777f82,tt0000262,"{'text': 'Un lunch', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f84,tt0000498,"{'text': 'Rescued by Rover', '__typename': 'TitleText'}","{'year': 1905, 'endYear': None, '__typename': 'YearRange'}","{'day': 3, 'month': 7, 'year': 1905, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777f86,tt0000340,"{'text': 'Uncle Josh in a Spooky Hotel', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f88,tt0000588,"{'text': 'Der var engang', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 25, 'month': 9, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777f8a,tt0000352,"{'text': 'Day at the Circus', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f8c,tt0000357,"{'text': 'The Haunted Curiosity Shop', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1901, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777f8e,tt0000442,"{'text': 'Henrettelsen', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f90,tt0000370,"{'text': ""Scrooge; or Marley's Ghost"", '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 11, 'year': 1901, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777f92,tt0000750,"{'text': 'Richard III', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 26, 'month': 9, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777f94,tt0000421,"{'text': 'Les apaches pas veinards', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f96,tt0000400,"{'text': 'Le lion savant', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f98,tt0000838,"{'text': 'A Cultura do Cacau', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f9a,tt0000786,"{'text': 'Wiegenlied', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7c66ed3677a777f9c,tt0000399,"{'text': 'Jack and the Beanstalk', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}","{'day': 15, 'month': 7, 'year': 1902, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777f9e,tt0000832,"{'text': 'A Corner in Wheat', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 13, 'month': 12, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777fa0,tt0000553,"{'text': 'The Haunted Hotel', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 23, 'month': 2, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777fa2,tt0000935,"{'text': 'The Light That Came', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 8, 'month': 11, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777fa4,tt0000556,"{'text': 'Hævnet', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 1, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777fa6,tt0001019,"{'text': 'The Road Agents', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 17, 'month': 3, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777fa8,tt0000596,"{'text': 'Fyrtøjet', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 3, 'month': 10, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777faa,tt0001026,"{'text': 'Ruy Blas', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 19, 'month': 1, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777fac,tt0000663,"{'text': 'The Clubman and the Tramp', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 27, 'month': 11, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777fae,tt0000699,"{'text': 'The Helping Hand', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 29, 'month': 12, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd7c66ed3677a777fb0,tt0000654,"{'text': 'The Call of the Wild', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 27, 'month': 10, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777f6a,tt0000293,"{'text': 'Danse du pas des foulards par des almées', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f6c,tt0000366,"{'text': 'Uma Parada dos Alunos da Casa Pia de Lisboa', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f6e,tt0000317,"{'text': 'Le matelot', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f70,tt0000373,"{'text': 'Les sept châteaux du diable', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}","{'day': 22, 'month': 6, 'year': 1902, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777f72,tt0000191,"{'text': 'Déménagement à la cloche de bois', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f74,tt0000349,"{'text': 'The Cheese Mites, or Lilliputians in a London Restaurant', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 8, 'year': 1901, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777f76,tt0000438,"{'text': 'Le fiancé ensorcelé', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f78,tt0000165,"{'text': 'Riña en un café', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f7a,tt0000223,"{'text': ""L'aveugle"", '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f7c,tt0000176,"{'text': 'Brittania', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f7e,tt0000195,"{'text': 'Les farces de Jocko', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f80,tt0000510,"{'text': 'El dúo de la Africana', '__typename': 'TitleText'}","{'year': 1905, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f82,tt0000259,"{'text': 'Le tonnelier', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f84,tt0000291,"{'text': 'Dans les coulisses', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': 11, 'month': 11, 'year': 1905, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777f86,tt0000271,"{'text': 'Arrivée de Pierette et Pierrot', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f88,tt0000559,"{'text': 'Konfirmanden', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}","{'day': 4, 'month': 4, 'year': 1906, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777f8a,tt0000480,"{'text': 'Le coffre enchanté', '__typename': 'TitleText'}","{'year': 1904, 'endYear': None, '__typename': 'YearRange'}","{'day': 5, 'month': 3, 'year': 1904, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777f8c,tt0000292,"{'text': 'Danse du papillon', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777f8e,tt0000577,"{'text': 'Angelo, Tyran fra Padua', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 24, 'month': 11, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777f90,tt0000624,"{'text': 'The Ugly Duckling', '__typename': 'TitleText'}","{'year': 1907, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 5, 'year': 1907, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777f92,tt0000608,"{'text': 'En ny hat til Madammen', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}","{'day': 14, 'month': 11, 'year': 1906, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777f94,tt0000678,"{'text': 'Excursión a Montserrat', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f96,tt0000333,"{'text': ""Le sang d'Adonis donnant naissance à la rose rouge"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f98,tt0000401,"{'text': 'Le marchand de ballons', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777f9a,tt0000392,"{'text': 'The Enchanted Cup', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 7, 'year': 1902, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777f9c,tt0000728,"{'text': 'Money Mad', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 4, 'month': 12, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777f9e,tt0000753,"{'text': 'The Romance of an Egg', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 5, 'month': 6, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777fa0,tt0000365,"{'text': 'Parada de Bombeiros', '__typename': 'TitleText'}","{'year': 1901, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777fa2,tt0000428,"{'text': 'Carreras de bicicletas en el parque', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777fa4,tt0000872,"{'text': 'The Foundling', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 12, 'month': 6, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777fa6,tt0000441,"{'text': 'Gulliver en el país de los gigantes', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777fa8,tt0000462,"{'text': 'La poule fantaisiste', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777faa,tt0000503,"{'text': 'Corrida de beneficencia en Zaragoza, por Quinito y Montes', '__typename': 'TitleText'}","{'year': 1905, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777fac,tt0000539,"{'text': 'Bonden i København', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}","{'day': 1, 'month': 10, 'year': 1906, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777fae,tt0000571,"{'text': 'The San Francisco Earthquake', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777fb0,tt0001021,"{'text': 'Robbing the Widowed and Fatherless', '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 9, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777fb2,tt0000554,"{'text': 'Humorous Phases of Funny Faces', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}","{'day': 6, 'month': 4, 'year': 1906, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777fb4,tt0001043,"{'text': ""Smith's Knockabout Theatre"", '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7cc0d1f7890777fb6,tt0000991,"{'text': ""On the Little Big Horn or Custer's Last Stand"", '__typename': 'TitleText'}","{'year': 1909, 'endYear': None, '__typename': 'YearRange'}","{'day': 25, 'month': 11, 'year': 1909, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777fb8,tt0001045,"{'text': ""Le songe d'une nuit d'été"", '__typename': 'TitleText'}","{'year': 1910, 'endYear': None, '__typename': 'YearRange'}","{'day': 26, 'month': 5, 'year': 1910, '__typename': 'ReleaseDate'}"
+61e57fd7cc0d1f7890777fba,tt0000747,"{'text': 'The Red Girl', '__typename': 'TitleText'}","{'year': 1908, 'endYear': None, '__typename': 'YearRange'}","{'day': 15, 'month': 9, 'year': 1908, '__typename': 'ReleaseDate'}"
+61e57fd7d8a2362a33777f70,tt0000344,"{'text': 'Valse lente', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7d8a2362a33777f72,tt0000342,"{'text': 'Une rage de dents', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7d8a2362a33777f74,tt0000323,"{'text': 'Pas Japonais', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7d8a2362a33777f76,tt0000301,"{'text': 'Faust and Marguerite', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}","{'day': 28, 'month': 2, 'year': 1900, '__typename': 'ReleaseDate'}"
+61e57fd7d8a2362a33777f78,tt0000117,"{'text': 'Saída do Pessoal Operário da Fábrica Confiança', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 12, 'year': 1896, '__typename': 'ReleaseDate'}"
+61e57fd7d8a2362a33777f7a,tt0000419,"{'text': ""L'équilibriste"", '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7d8a2362a33777f7c,tt0000396,"{'text': 'Fruits de saison', '__typename': 'TitleText'}","{'year': 1902, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7d8a2362a33777f7e,tt0000188,"{'text': 'The Deserter', '__typename': 'TitleText'}","{'year': 1898, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7d8a2362a33777f80,tt0000455,"{'text': 'Le mélomane', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': 15, 'month': 8, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd7d8a2362a33777f82,tt0000147,"{'text': 'The Corbett-Fitzsimmons Fight', '__typename': 'TitleText'}","{'year': 1897, 'endYear': None, '__typename': 'YearRange'}","{'day': 22, 'month': 5, 'year': 1897, '__typename': 'ReleaseDate'}"
+61e57fd7d8a2362a33777f84,tt0000469,"{'text': 'The Sick Kitten', '__typename': 'TitleText'}","{'year': 1903, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1903, '__typename': 'ReleaseDate'}"
+61e57fd7d8a2362a33777f86,tt0000248,"{'text': 'The Kiss in the Tunnel', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': 11, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd7d8a2362a33777f88,tt0000526,"{'text': 'Pennsylvania Tunnel Excavation', '__typename': 'TitleText'}","{'year': 1905, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7d8a2362a33777f8a,tt0000218,"{'text': ""L'affaire Dreyfus"", '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': 4, 'month': 11, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd7d8a2362a33777f8c,tt0000116,"{'text': 'Sac au dos', '__typename': 'TitleText'}","{'year': 1896, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7d8a2362a33777f8e,tt0000234,"{'text': 'Cléopâtre', '__typename': 'TitleText'}","{'year': 1899, 'endYear': None, '__typename': 'YearRange'}","{'day': None, 'month': None, 'year': 1899, '__typename': 'ReleaseDate'}"
+61e57fd7d8a2362a33777f90,tt0000276,"{'text': ""Bataille d'oreillers"", '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7d8a2362a33777f92,tt0000566,"{'text': 'Professorens Morgenavis', '__typename': 'TitleText'}","{'year': 1906, 'endYear': None, '__typename': 'YearRange'}","{'day': 24, 'month': 3, 'year': 1906, '__typename': 'ReleaseDate'}"
+61e57fd7d8a2362a33777f94,tt0000328,"{'text': 'La petite magicienne', '__typename': 'TitleText'}","{'year': 1900, 'endYear': None, '__typename': 'YearRange'}",
+61e57fd7d8a2362a33777f96,tt0000488,"{'text': 'The Land Beyond the Sunset', '__typename': 'TitleText'}","{'year': 1912, 'endYear': None, '__typename': 'YearRange'}","{'day': 28, 'month': 10, 'year': 1912, '__typename': 'ReleaseDate'}"
